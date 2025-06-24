@@ -25,4 +25,7 @@ Durante o desenvolvimento deste projeto, foram aplicados diversos conceitos fund
 * Validação de dados (nome vazio, nome repetido)
 * Interpolação de strings com template literals (`Seu amigo secreto é ${nome}`)
 
+## 🖥️ Deploy
+https://clarodriguess.github.io/amigo-secreto/
+
 
